@@ -14,8 +14,14 @@ Niat untuk menghidupkan kembali ini digalakkan oleh [Ijal Fauzi][3] di kiriman d
 
 Rencananya, Blogazinist akan bermigrasi dari WordPress, berganti mesin menggunakan Jekyll dan Github. Kenapa? Karena dengan Jekyll dan Github menjadi lebih sederhana, mudah, ringan, dan hemat. Siapa saja yang ingin berkonttribusi tinggal commit and push di fork mereka dan melakukan pull request yang selanjutnya akan di-merge oleh salah satu admin/editor, dan voila! Kamu sudah berkontribusi. :)
 
+##Download EBook
+
+["Download EBook "Mengenal Git"][4] - format .pdf
+
+
 Untuk tutorial akan segera ditindaklanjuti. Semoga ke depan Blogazinist bisa lebih maju. <b>Salam Blogazine.</b>
 
 [1]: http://blogazinist.com/       "Blogazinist"
 [2]: https://twitter.com/DJPutri   "DJPutri"
 [3]: https://twitter.com/ijalfauzi "Ijal Fauzi"
+[4]: http://www.4shared.com/office/2FPbYNEf/MengenalGit.html "Download EBook "Mengenal Git"
